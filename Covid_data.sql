@@ -1,3 +1,6 @@
+
+-- check to see location contains continents and income-categories
+
 select *
 from cases_covid_data$
 where continent is null
